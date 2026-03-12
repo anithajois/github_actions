@@ -1,1 +1,1 @@
-console.log("welcome to GITHUB Actions");
+console.log("welcome to GITHUB Actions new");

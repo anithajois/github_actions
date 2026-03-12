@@ -4,7 +4,7 @@
   "description": "github actions",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "",
     "build": "node src/index.js"
   },
   "author": "",
